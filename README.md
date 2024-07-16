@@ -18,17 +18,20 @@ An intuitive and responsive HTML code editor built with HTML, CSS, and JavaScrip
 
 ### Main Interface
 
-![Screenshot (189)](https://github.com/user-attachments/assets/e6b732fd-d4d6-4fdb-9d96-3dddf14951f1)
+![Screenshot (189)](https://github.com/user-attachments/assets/75354b82-b3b4-4856-b397-b1ab151ce4f4)
+
 
 
 ### Writing Code
 
-![Screenshot (188)](https://github.com/user-attachments/assets/2f5dbec8-012f-4ae3-9e62-c900b442ce48)
+![Screenshot (188)](https://github.com/user-attachments/assets/7d06b139-da31-4e4c-9483-2539cc33f3c0)
+
 
 
 ### Live Preview
 
-![Screenshot (187)](https://github.com/user-attachments/assets/731e2df8-1cf5-4ab4-8cbe-e53eb9d8b277)
+![Screenshot (187)](https://github.com/user-attachments/assets/41a19e8b-a0ab-49bf-a549-73589a0e24bd)
+
 
 
 ## How to Use
